@@ -2,29 +2,27 @@
 
 Welcome to **ShopLuxe**, a visually stunning and responsive frontend project for a modern fashion eCommerce store. Built using **React.js** and **Bootstrap 5**, this website delivers a clean, elegant, and user-friendly experience — perfect for showcasing fashion collections online.
 
-> ⚠️ Note: This is a **frontend-only** project with no backend or payment integration.
+⚠️ Note: This is a **frontend-only** project with no backend or payment integration.
 
----
 
 ## 📽️ Website Walkthrough
 
 🎥 Watch the complete demo video of the ShopLuxe website:  
-[🔗 Insert your video link here]
+[https://github.com/Snehaa244/Cover-Image/blob/main/20-36-31.mp4]
 
----
+
 
 ## 🖼️ Preview Screenshots
 
 ### 🏠 Home Page
-![Home](./assets/home.png)
+![Home](https://github.com/Snehaa244/Cover-Image/blob/main/SL%20Home.PNG)
 
 ### ℹ️ About Page
-![About](./assets/about.png)
+![About](https://github.com/Snehaa244/Cover-Image/blob/main/Sl%20world.PNG)
 
 ### 🖼️ Gallery Page
-![Gallery](./assets/gallery.png)
+![Gallery](https://github.com/Snehaa244/Cover-Image/blob/main/SL%20About.PNG)
 
-> Replace the above image paths with actual image locations in your project.
 
 ---
 
