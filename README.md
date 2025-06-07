@@ -8,7 +8,7 @@ Welcome to **ShopLuxe**, a visually stunning and responsive frontend project for
 ## 📽️ Website Walkthrough
 
 🎥 Watch the complete demo video of the ShopLuxe website:  
-![ShopLuxe Demo](./assets/demo.gif)
+![ShopLuxe Demo](https://github.com/Snehaa244/Cover-Image/blob/main/20-36-31-ezgif.com-video-to-gif-converter.gif)
 
 
 
